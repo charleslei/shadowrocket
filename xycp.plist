@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://www.zhushenwudi.cn/ssr.ipa</string>
+<string>https://raw.githubusercontent.com/zhushenwudi/shadowrocket/master/ssr.ipa</string>
 <key>New item</key>
 <string></string>
 </dict>
