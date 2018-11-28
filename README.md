@@ -1,2 +1,2 @@
-# VPN
-vpn相关软件下载
+# Virtual Private Network
+Virtual Private Network相关软件下载
